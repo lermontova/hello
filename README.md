@@ -1,4 +1,4 @@
 hello
 =====
 
-first repository
+i love :pizza: & :tea:
